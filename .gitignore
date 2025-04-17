@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.env
+*.venv
+*.log
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Django stuff
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+static_root/
+local_settings.py
+
+# VSCode
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Migrations (optional — only if you don't want to commit them)
+# */migrations/
+# !*/migrations/__init__.py
+
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+testdb.sqlite3
+
+# Environment variables
+.env
+.env.*
