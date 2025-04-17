@@ -8,4 +8,4 @@ class ActionAnalyzer(models.Model):
     suggested_action = models.JSONField()
     
     def __str__(self):
-        return f"{self.query[:50]}"
+        return f"{self.query}"
