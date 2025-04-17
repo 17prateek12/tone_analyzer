@@ -11,5 +11,6 @@ This Django REST API takes in user queries, analyzes the **tone** and **intent**
 -**dotenv**
 
 ## Setup & Installation
-```git clone https://github.com/17prateek12/tone_analyzer
-   cd tone_analyzer```
+```
+git clone https://github.com/17prateek12/tone_analyzer
+cd tone_analyzer
